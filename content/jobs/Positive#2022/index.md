@@ -1,6 +1,6 @@
 ---
 title: 'Developer'
-company: 'Omniverse Development'
+company: 'Positive#2022'
 location: 'India'
 range: 'Since 2020'
 ---
