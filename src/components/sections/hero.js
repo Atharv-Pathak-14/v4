@@ -60,7 +60,7 @@ const Hero = () => {
 
   const one = <h1>Hello, I am</h1>;
   const two = <h2 className="big-heading">Omniverse.</h2>;
-  const three = <h3 className="big-heading">A epic music </h3>;
+  const three = <h3 className="big-heading">A powerful music bot for discord</h3>;
   const four = (
     <>
       <p>
@@ -77,10 +77,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://discord.com/api/oauth2/authorize?client_id=798198608801431622&permissions=8&scope=bot%20applications.commands"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Invite me!!
     </a>
   );
 
