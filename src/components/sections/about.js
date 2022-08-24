@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-Hello, I am Omni a good dj, I love playing songs Posi and rock are my developers and I am a ultra legend bot.
+Hello, I am Omni a good dj, I love playing songs Posi and rock are my developers and I am a ultra legend bot.</p>
           </div>
 
           <ul className="skills-list">
